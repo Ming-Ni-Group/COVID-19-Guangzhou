@@ -1,0 +1,201 @@
+Patient ID	Age	Sex	Clinical condition	Ct	Lab	Collection date (yy/mm/dd)	Local places	Relationships	Flight (Flight number_Date)	Location of exposure	Country of exposure	Continent of exposure	Domestic or imported	10x Coverage(%)	20x Coverage(%)	50x Coverage(%)	Mean_Sequence_Depth	Median_Sequence_Depth	Q1 Depth	Q2 Depth	Q3 Depth	High Coverage
+ID001	31	Female	Mild	NA	Guangdong Second People's Hospital	2020/2/3		hh200		Wuhan	China	Asia	domestic 	85.01	83.8	81.45	10849	6194	179	6194	19943	FALSE
+ID002	33	Male	Mild	35.5 	Guangzhou 8th People's Hospital	2020/2/3		hh200		Guangzhou	China	Asia	domestic 	94	92.1	89.88	13613	12427	2782	12427	20101	TRUE
+ID003	43	Male	Mild	38.9 	Guangzhou Haizhu District  Center for Disease Control and Prevention	2020/2/3		hh330		Guangzhou	China	Asia	domestic 	73.07	72.94	72.66	11436	9398	5	9398	19921	FALSE
+ID004	41	Female	Mild	29.1 	Guangdong Second People's Hospital	2020/2/9		hh330		Guangzhou	China	Asia	domestic 	93.37	90.71	86.36	6540	2160	312	2160	12000	TRUE
+ID005	71	Female	Critical	38.0 	Guangzhou 8th People's Hospital	2020/2/3				Wuhan	China	Asia	domestic 	81.01	79.58	77.86	10727	8249	167	8249	19915	FALSE
+ID006	26	Female	Mild	29.0 	The Third Affiliated Hospital of Guangzhou Medical University	2020/3/12			9C8934_0303	Thailand	Thailand	Asia	imported 	95.86	93.86	89.22	6632	2023	412	2023	12995	TRUE
+ID007	50	Male	Mild	16.0 	Guangzhou Tianhe District  Center for Disease Control and Prevention	2020/3/14		hh438	CZ398_0313	Philippines	Philippines	Asia	imported 	95.89	93.85	91.02	9333	8868	1008	8868	18078	TRUE
+ID008	23	Male	Mild	NA	Guangzhou Chest Hospital	2020/3/17			TG668_0321	UK	UK	Europe	imported 	16.2	12.99	11.2	862	1	0	1	5	FALSE
+ID009	21	Female	Mild	24.3 	Guangzhou Center for Disease Prevention and Control	2020/3/18			CZ0308_0317	London	UK	Europe	imported 	94.98	93.57	91.58	10550	10211	2243	10211	19941	TRUE
+ID010	56	Female	Mild	18.0 	Guangzhou Center for Disease Prevention and Control	2020/3/19		hh446	CZ398_0317	Philippines	Philippines	Asia	imported 	96.15	93.67	91.17	8546	7256	567	7256	17093	TRUE
+ID011	27	Male	Mild	25.0 	Guangzhou Center for Disease Prevention and Control	2020/3/19		hh446	CZ398_0317	Philippines	Philippines	Asia	imported 	95.98	93.76	90.59	7487	2862	494	2862	15138	TRUE
+ID012	33	Male	Mild	25.2 	Guangzhou KingMed Medical Laboratory	2020/3/20			CX837_0318	Canada	Canada	North America	imported 	95.2	92.48	90.98	8550	4506	610	4506	18544	TRUE
+ID013	41	Male	Mild	28.1 	Guangzhou Baiyun District  Center for Disease Control and Prevention	2020/3/20			CA942_0317	Dubai	UAE	Asia	imported 	95.27	94.08	92.07	7953	3051	574	3051	17511	TRUE
+ID014	35	Female	Mild	40.4 	Guangzhou Liwan District  Center for Disease Control and Prevention	2020/3/21		cc457	CZ354_0310	Turkey	Turkey	Europe	imported 	87.89	86.78	85.48	12698	10691	842	10691	20049	FALSE
+ID015	46	Female	Mild	28.0 	Guangzhou Center for Disease Prevention and Control	2020/3/21			CZ3092_0319	Philippines	Philippines	Asia	imported 	99.95	99.95	99.94	18543	19876	19774	19876	19920	TRUE
+ID016	32	Male	Mild	26.0 	Guangzhou Chest Hospital	2020/3/22			TG668_0319	France	France	Europe	imported 	99.87	99.76	97.49	15231	19420	10794	19420	19888	TRUE
+ID017	30	Male	Mild	24.0 	Guangzhou Chest Hospital	2020/3/22			TG668_0321	London	UK	Europe	imported 	99.95	99.95	99.93	18502	19869	19767	19869	19908	TRUE
+ID018	38	Female	Mild	37.5 	Guangzhou Huayin Clinical Laboratory Center	2020/3/22			CZ300_0321	New York	USA	North America	imported 	69.45	69.31	69.17	8999	4730	3	4730	18205	FALSE
+ID019	18	Male	Mild	36.1 	Guangzhou Haizhu District  Center for Disease Control and Prevention	2020/3/22			CX252_0321	London	UK	Europe	imported 	92.16	90.63	90.16	12473	9821	2014	9821	20000	TRUE
+ID020	36	Male	Mild	35.7 	Guangzhou Yuexiu District  Center for Disease Control and Prevention	2020/3/27			ET606_0321	Congo	Congo	Africa	imported 	96.95	95.32	92.67	8038	4020	576	4020	13913	TRUE
+ID021	54	Female	Mild	30.2 	Guangzhou Yuexiu District  Center for Disease Control and Prevention	2020/3/22		cc508	ET606_0321	Nigeria	Nigeria	Africa	imported 	99.94	99.94	99.93	18104	19869	19719	19869	19914	TRUE
+ID022	35	Male	Mild	NA	Guangzhou Yuexiu District  Center for Disease Control and Prevention	2020/3/23			ET606_0322	Togo	Togo	Africa	imported 	70.33	63.8	60.19	8091	2583	7	2583	19318	FALSE
+ID023	32	Male	Mild	38.8 	Guangzhou Yuexiu District  Center for Disease Control and Prevention	2020/3/24			ET606_0322	Togo	Togo	Africa	imported 	64.88	63.33	62.59	9751	6911	2	6911	19840	FALSE
+ID024	23	Female	Mild	NA	Guangzhou Huayin Clinical Laboratory Center	2020/3/24			ET606_0323	London	UK	Europe	imported 	74.37	73.76	72.25	8926	1993	8	1993	19741	FALSE
+ID025	16	Male	Mild	38.0 	Guangzhou Baiyun District  Center for Disease Control and Prevention	2020/3/23			CZ300_0322	New York	USA	North America	imported 	75.8	74.82	74.63	12596	10629	17	10629	19956	FALSE
+ID026	52	Male	Mild	20.0 	Guangzhou Center for Disease Prevention and Control	2020/3/23		cc462	TG668_0321	Pakistan	Pakistan	Asia	imported 	99.95	99.94	99.94	19460	19877	19820	19877	19914	TRUE
+ID027	19	Male	Mild	25.1 	Guangzhou Center for Disease Prevention and Control	2020/3/25		cc462	TG668_0321	Pakistan	Pakistan	Asia	imported 	95.6	92.73	88.2	8557	5405	682	5405	18271	TRUE
+ID028	47	Male	Mild	26.0 	Guangzhou Center for Disease Prevention and Control	NA		cc462	TG668_0321	Pakistan	Pakistan	Asia	imported 	94.82	93.07	88.91	7389	2860	385	2860	15843	TRUE
+ID029	54	Male	Mild	32.0 	Guangzhou Center for Disease Prevention and Control	NA		cc462	TG668_0321	Pakistan	Pakistan	Asia	imported 	87.73	87.54	86.46	11048	8916	893	8916	19899	FALSE
+ID030	47	Male	Mild	21.0 	Guangzhou Center for Disease Prevention and Control	NA		cc462	TG668_0321	Pakistan	Pakistan	Asia	imported 	91.45	89.95	87.11	11518	10226	806	10226	19920	TRUE
+ID031	42	Male	Mild	30.0 	Guangzhou Center for Disease Prevention and Control	NA		cc462	TG668_0321	Pakistan	Pakistan	Asia	imported 	97.82	97.74	96.66	13766	12291	2346	12291	20684	TRUE
+ID032	16	Female	Mild	25.0 	Guangzhou Yuexiu District  Center for Disease Control and Prevention	2020/3/24			SQ850_0323	Oxford	UK	Europe	imported 	99.94	99.94	99.93	19214	19876	19805	19876	19913	TRUE
+ID033	22	Male	Mild	29.0 	Guangzhou KingMed Medical Laboratory	2020/3/24			9C8530_0323	Birmingham	UK	Europe	imported 	99.88	99.88	99.55	14030	18155	7415	18155	19880	TRUE
+ID034	21	Female	Mild	21.0 	Guangzhou Yuexiu District  Center for Disease Control and Prevention	2020/3/24		hh481	CZ348_0323	Leicester	UK	Europe	imported 	99.95	99.95	99.94	18422	19868	19735	19868	19914	TRUE
+ID035	22	Male	Mild	26.0 	Guangzhou Yuexiu District  Center for Disease Control and Prevention	2020/3/24		hh481	CZ348_0323	Leicester	UK	Europe	imported 	99.92	99.92	99.91	17484	19850	19357	19850	19911	TRUE
+ID036	30	Male	Mild	32.8 	The Second Affiliated Hospital of Guangzhou Medical University番禺院区	2020/3/25			CZ348_0324	France	France	Europe	imported 	99.87	99.87	97.39	13131	16361	5460	16361	19838	TRUE
+ID037	22	Female	Mild	26.0 	Guangzhou KingMed Medical Laboratory	2020/3/26			CZ300_0323	New York	USA	North America	imported 	99.87	99.87	99.86	16379	19755	15239	19755	19901	TRUE
+ID038	31	Male	Mild	35.0 	Guangzhou 8th People's Hospital	2020/3/26			CZ300_0325	New York	USA	North America	imported 	71	69	68.39	10125	4973	6	4973	19892	FALSE
+ID039	28	Male	Mild	30.9 	Guangzhou 8th People's Hospital	2020/3/26			CZ300_0325	New Jersey	USA	North America	imported 	90.57	88.42	84.74	11163	8089	594	8089	19982	TRUE
+ID040	42	Male	Mild	35.3 	Guangzhou Liwan District  Center for Disease Control and Prevention	2020/3/27			OD612_0316	Dubai	UAE	Asia	imported 	96.37	96.05	94.7	12845	10619	1745	10619	20271	TRUE
+ID041	32	Female	Mild	34.4 	Guangzhou Liwan District  Center for Disease Control and Prevention	2020/3/27			CA942_037	Dubai	UAE	Asia	imported 	92.76	90.57	90.41	6510	4347	688	4347	9946	TRUE
+ID042	24	Male	Mild	29.8 	Guangzhou Liwan District  Center for Disease Control and Prevention	2020/3/26			SU220_0325	Spain	Spain	Europe	imported 	99.88	99.88	99.69	15919	19781	14300	19781	19903	TRUE
+ID043	39	Male	Mild	39.8 	Guangzhou Yuexiu District  Center for Disease Control and Prevention	2020/3/25			ET606_0321	Nigeria	Nigeria	Africa	imported 	85.41	81.95	80.27	7980	3433	328	3433	16054	FALSE
+ID044	19	Female	Mild	40.4 	Guangzhou Center for Disease Prevention and Control	2020/3/16			CZ364_0315	Devon/Exeter	UK	Europe	imported 	82.84	81.93	79.77	10507	5746	373	5746	19884	FALSE
+ID045	23	Female	Mild	30.0 	Guangzhou Center for Disease Prevention and Control	2020/3/17			JL087_0315	London	UK	Europe	imported 	96.15	92.78	90.38	7286	2316	404	2316	14910	TRUE
+ID046	31	Female	Mild	32.9 	Guangzhou Center for Disease Prevention and Control	2020/3/17		cc437	CA848_0314	London	UK	Europe	imported 	92.6	87.67	82.63	4997	980	120	980	8286	TRUE
+ID047	35	Female	Mild	24.0 	Guangzhou Tianhe District  Center for Disease Control and Prevention	2020/3/17		cc437	CA848_0314	London	UK	Europe	imported 	96.17	93.72	88.85	8591	6035	625	6035	17897	TRUE
+ID048	57	Male	Mild	24.0 	Guangzhou Center for Disease Prevention and Control	2020/3/18		cc442	CZ3092_0317	Philippines	Philippines	Asia	imported 	95.55	94.23	90.64	8891	6715	898	6715	17862	TRUE
+ID049	54	Female	Mild	34.1 	Guangzhou Chest Hospital	2020/3/19		cc442	CZ3092_0318	Philippines	Philippines	Asia	imported 	97.53	97.34	95.88	13718	13061	3787	13061	20040	TRUE
+ID050	37	Female	Mild	27.0 	Guangzhou Center for Disease Prevention and Control	2020/3/18			TG668_0317	France	France	Europe	imported 	96.12	94.25	91.27	7793	4090	465	4090	16638	TRUE
+ID051	34	Male	Mild	29.0 	Guangzhou Center for Disease Prevention and Control	2020/3/18			CZ398_0317	Philippines	Philippines	Asia	imported 	94.63	91.77	89.29	7568	2961	414	2961	15710	TRUE
+ID052	29	Female	Mild	30.1 	The People's Hospital of Huadu District	2020/3/20		hh446	CZ3092_0319	Philippines	Philippines	Asia	imported 	95.24	92.25	88.65	6283	1563	223	1563	12217	TRUE
+ID053	36	Male	Mild	22.0 	The Second Affiliated Hospital of Guangzhou Medical University番禺院区	2020/3/19			CZ398_0318	Philippines	Philippines	Asia	imported 	95.49	94.1	90.78	7943	4500	572	4500	16272	TRUE
+ID054	19	Female	Mild	28.6 	Guangzhou Center for Disease Prevention and Control	2020/3/20			SQ850_0318	London	UK	Europe	imported 	95.66	91.74	89.73	6994	2154	287	2154	13988	TRUE
+ID055	47	Male	Mild	22.6 	Guangzhou Yuexiu District  Center for Disease Control and Prevention	2020/3/22		cc468	ET606_0321	Ethiopia	Ethiopia	Africa	imported 	96.52	95.27	93.99	9209	7767	2357	7767	16307	TRUE
+ID056	44	Male	Mild	24.0 	Guangzhou Yuexiu District  Center for Disease Control and Prevention	2020/3/24		hh468	ET606_0321	Congo	Congo	Africa	imported 	99.94	99.94	99.94	18961	19879	19811	19879	19916	TRUE
+ID057	38	Male	Mild	NA	Guangzhou Yuexiu District  Center for Disease Control and Prevention	2020/3/23			ET606_0321	Nigeria	Nigeria	Africa	imported 	95.89	94.92	93.78	10813	10513	2835	10513	19715	TRUE
+ID058	25	Female	Mild	22.0 	The TCM Hospital of Baiyun District	2020/3/26			ET606_0321	Glasgow	UK	Europe	imported 	87.2	84.1	77.95	7231	1748	64	1748	17317	FALSE
+ID059	33	Male	Mild	16.8 	Guangzhou Da' an Clinical Laboratory Center	2020/3/24			CZ324_0320	Chile	Chile	South America	imported 	96.83	96.45	94.32	10527	10334	2830	10334	19159	TRUE
+ID060	27	Female	Mild	36.0 	Guangzhou Center for Disease Prevention and Control	2020/3/25			SU220_0323	London	UK	Europe	imported 	87.11	85.13	83.21	7446	3449	426	3449	13023	FALSE
+ID061	28	Female	Mild	25.4 	Guangzhou Panyu District  Center for Disease Control and Prevention	2020/3/26			EK303_0313	Spain	Spain	Europe	imported 	95.13	93.78	89.03	8519	5024	559	5024	18266	TRUE
+ID062	39	Male	Mild	33.3 	Guangzhou Center for Disease Prevention and Control	2020/3/26			LQ908_0325	Philippines	Philippines	Asia	imported 	95.99	95.47	94.91	12165	16176	2982	16176	19878	TRUE
+ID063	23	Female	Mild	28.3 	Guangzhou Tianhe District  Center for Disease Control and Prevention	2020/3/27			CZ366_0326	Malaysia	Malaysia	Asia	imported 	94.37	90.96	86.24	7218	2024	318	2024	15099	TRUE
+ID064	38	Female	Mild	28.3 	Guangzhou Center for Disease Prevention and Control	2020/3/27			CZ610_0313	California	USA	North America	imported 	93.08	89.97	84.04	6638	1478	183	1478	13378	TRUE
+ID065	39	Male	Mild	24.0 	Guangzhou Huadu District  Center for Disease Control and Prevention	2020/3/17		hh438	CZ3092_0316	Philippines	Philippines	Asia	imported 	96.89	95.17	90.15	8111	4586	605	4586	17065	TRUE
+ID066	30	Male	Mild	26.0 	Guangzhou Chest Hospital	2020/3/17			9C6316_0316	Thailand	Thailand	Asia	imported 	95.4	93.36	90.64	8150	4460	556	4460	17372	TRUE
+ID067	19	Male	Mild	32.4 	Guangzhou Center for Disease Prevention and Control	2020/3/18			CZ348_0317	France	France	Europe	imported 	93.5	90.04	85.56	5694	1159	168	1159	9749	TRUE
+ID068	18	Male	Mild	22.0 	Guangzhou Center for Disease Prevention and Control	2020/3/18			CA984_0317	Michigan	USA	North America	imported 	95.23	94.21	92.57	10462	9931	2522	9931	19447	TRUE
+ID069	20	Female	Mild	29.0 	The Second Affiliated Hospital of Guangzhou Medical University番禺院区	2020/3/19			SQ850_0318	London	UK	Europe	imported 	93.15	89.69	85.81	6063	1518	228	1518	11710	TRUE
+ID070	54	Male	Mild	31.1 	The First Affiliated Hospital,Sun Yat-sen University	2020/3/20		cc457		Guangzhou	China	Asia	domestic 	93.71	91.73	89.59	6388	1754	237	1754	12896	TRUE
+ID071	45	Male	Mild	37.6 	Guangzhou Center for Disease Prevention and Control	2020/3/22			CX256_0313	Cambridge	UK	Europe	imported 	79.45	78.86	78.2	10411	4442	131	4442	19941	FALSE
+ID072	40	Male	Mild	33.2 	Guangzhou Yuexiu District  Center for Disease Control and Prevention	2020/3/22		hh468	ET606_0321	Ethiopia	Ethiopia	Africa	imported 	93.25	90.97	85.65	5510	1244	164	1244	9374	TRUE
+ID073	22	Female	Mild	32.8 	Guangzhou Panyu District  Center for Disease Control and Prevention	2020/3/26			CZ300_0323	New York	USA	North America	imported 	92.7	88.6	82.47	5273	890	130	890	9084	TRUE
+ID074	60	Male	Mild	25.0 	Guangzhou Panyu District  Center for Disease Control and Prevention	2020/3/15			LH796_0313	France	France	Europe	imported 	94.73	92.61	90.05	8062	4030	465	4030	17556	TRUE
+ID075	47	Female	Mild	38.9 	Guangzhou Nansha District  Center for Disease Control and Prevention	2020/3/26		hh500	ET606_0323	Ethiopia	Ethiopia	Africa	imported 	63.66	63.18	63.08	9192	3427	2	3427	19743	FALSE
+ID076	35	Male	Mild	34.5 	Guangzhou Da' an Clinical Laboratory Center	2020/3/25		hh500	ET606_0323	Ethiopia	Ethiopia	Africa	imported 	96.69	95.97	95.78	9926	6984	1077	6984	18581	TRUE
+ID077	51	Female	Mild	30.0 	Guangzhou Yuexiu District  Center for Disease Control and Prevention	2020/3/30		cc508	ET606_0321	Angola	Angola	Africa	imported 	93.48	92.12	86.59	6806	2793	379	2793	12327	TRUE
+ID078	45	Male	Mild	24.0 	Guangzhou Yuexiu District  Center for Disease Control and Prevention	2020/3/28			ET606_0321	Madagascar	Madagascar	Africa	imported 	96.98	95.92	94.45	8723	6211	1021	6211	17853	TRUE
+ID079	44	Female	Mild	30.0 	Guangzhou Yuexiu District  Center for Disease Control and Prevention	2020/3/28			ET606_0321	Angola	Angola	Africa	imported 	97.93	95.17	89.98	5082	2021	264	2021	7939	TRUE
+ID080	32	Male	Mild	32.0 	Guangzhou Yuexiu District  Center for Disease Control and Prevention	2020/3/30			ET606_0322	Nigeria	Nigeria	Africa	imported 	20.68	19.56	18.87	606	0	0	0	0	FALSE
+ID081	42	Female	NA	34.0 	The TCM Hospital of Baiyun District	2020/4/1		cc540	LQ908_0328	Philippines	Philippines	Asia	imported 	81.49	80.13	76.61	5024	873	71	873	7897	FALSE
+ID082	49	Male	Mild	34.0 	Guangzhou Hybribio Medical Laboratory	2020/3/30		cc540	LQ908_0328	Philippines	Philippines	Asia	imported 	75.92	73.73	70.38	3599	479	16	479	4322	FALSE
+ID083	21	Male	Mild	36.0 	The Second Affiliated Hospital of Guangzhou Medical University番禺院区	2020/3/27			K6668_0327	Ireland	Ireland	Europe	imported 	52.17	46.54	37.74	1013	13	1	13	280	FALSE
+ID084	30	Male	Mild	31.0 	Guangzhou KingMed Medical Laboratory	2020/3/28			ET644_0314	Burkina Faso	Burkina Faso	Africa	imported 	42.51	38.02	24.44	228	4	0	4	48	FALSE
+ID085	11	Male	Mild	29.0 	Guangzhou KingMed Medical Laboratory	2020/3/28			SU220_0327	Russia	Russia	Europe	imported 	96.3	95.68	91.61	5313	1724	424	1724	8598	TRUE
+ID086	50	Male	Mild	33.0 	The First Affiliated Hospital of Guangzhou Medical University	2020/3/28				Guangzhou	China	Asia	domestic 	53.76	52.68	49.71	2350	50	0	50	1282	FALSE
+ID087	23	Male	Mild	34.0 	Guangzhou Huadu District  Center for Disease Control and Prevention	2020/3/28			CZ308_0327	Birmingham	UK	Europe	imported 	98.19	95.98	93.42	5658	2861	331	2861	9021	TRUE
+ID088	21	Male	Mild	33.0 	Guangzhou Huadu District  Center for Disease Control and Prevention	2020/3/29			MH0376_0328	Colchester	UK	Europe	imported 	81.65	80.42	79.01	5131	1591	168	1591	8422	FALSE
+ID089	18	Male	Mild	37.0 	The People's Hospital of Huadu District	2020/3/30			SU220_0323	Berkhamsted	UK	Europe	imported 	43.03	42.51	39.8	2753	0	0	0	1667	FALSE
+ID090	36	Female	Mild	30.0 	Guangzhou Huadu District  Center for Disease Control and Prevention	2020/3/30			CZ366_0329	Malaysia	Malaysia	Asia	imported 	58.35	55.88	55.29	4901	619	2	619	7032	FALSE
+ID091	21	Male	Mild	28.0 	Guangzhou Panyu District  Center for Disease Control and Prevention	2020/3/30			QZ369_0328	Pennsylvania	USA	North America	imported 	95.6	94.69	91.1	8034	5216	837	5216	15546	TRUE
+ID092	21	Female	Mild	38.0 	Guangzhou Panyu District  Center for Disease Control and Prevention	2020/3/30			MH0376_0328	London	UK	Europe	imported 	23.93	23.13	21.33	1027	0	0	0	5	FALSE
+ID093	15	Male	Mild	36.0 	Guangzhou Huadu District  Center for Disease Control and Prevention	2020/3/30			CZ300_0329	New York	USA	North America	imported 	29.54	29.24	29.24	1778	0	0	0	592	FALSE
+ID094	56	Male	Mild	30.0 	Guangzhou Tianhe District  Center for Disease Control and Prevention	2020/4/1		hh537	NH933_0319	USA	USA	North America	imported 	93	91.75	87.28	5849.39	2044	183	2044	9980	FALSE
+ID095	64	Male	Critical	34.0 	Guangdong Provincial People’s Hospital	2020/1/23		hh17		Hubei	China	Asia	domestic 	80.47	78.93	75.18	5775	1865	68	1865	16309	FALSE
+ID096	64	Female	Mild	34.0 	Guangzhou Tianhe District  Center for Disease Control and Prevention	2020/2/22		hh17		Hubei	China	Asia	domestic 	90.35	88.65	84.41	6317	2414	204	2414	11497	TRUE
+ID097	22	Female	Mild	32.0 	Guangzhou Center for Disease Prevention and Control	2020/1/28		hh14		Guangzhou	China	Asia	domestic 	95.57	92.84	88.52	6428	3272	242	3272	11453	TRUE
+ID098	50	Female	Mild	32.0 	Guangzhou Center for Disease Prevention and Control	2020/1/31		hh14		Guangzhou	China	Asia	domestic 	93.12	91.7	89.17	5830	2069	266	2069	9878	TRUE
+ID099	43	Male	Mild	32.0 	Guangzhou Center for Disease Prevention and Control	2020/2/2		hh171		Wuhan	China	Asia	domestic 	98.9	98.17	97	6637	3461	713	3461	14528	TRUE
+ID100	73	Male	Mild	32.0 	Guangzhou Center for Disease Prevention and Control	2020/1/29		hh171		Wuhan	China	Asia	domestic 	96.99	95.82	91.82	8073	5133	603	5133	13161	TRUE
+ID101	35	Female	Mild	32.0 	Guangzhou Center for Disease Prevention and Control	2020/1/31		hh171		Wuhan	China	Asia	domestic 	97.72	95.72	91.99	7526	4661	517	4661	10354	TRUE
+ID102	31	Female	Mild	34.0 	Guangzhou Center for Disease Prevention and Control	2020/1/29		hh93		Wuhan	China	Asia	domestic 	90.9	89.44	87.43	6791	3404	235	3404	11230	TRUE
+ID103	33	Male	Mild	37.0 	Guangzhou Center for Disease Prevention and Control	2020/1/31		hh93		Guangzhou	China	Asia	domestic 	97.23	95.58	94.2	7205	4438	493	4438	13436	TRUE
+ID104	60	Female	Mild	34.0 	Guangdong Provincial People’s Hospital	2020/1/28		hh100		Wuhan	China	Asia	domestic 	99.03	98.7	98.02	10667	10516	3292	10516	19608	TRUE
+ID105	61	Male	Mild	35.0 	Guangdong Provincial People’s Hospital	2020/1/29		hh100		Wuhan	China	Asia	domestic 	82.22	81.76	79.45	4930	1182	207	1182	7277	FALSE
+ID106	60	Female	Mild	34.0 	Guangzhou Center for Disease Prevention and Control	2020/1/31		hh100		Wuhan	China	Asia	domestic 	94.71	92.37	89.29	6877	3791	315	3791	12954	TRUE
+ID107	17	Male	Mild	40.0 	Guangzhou Center for Disease Prevention and Control	2020/4/1			CZ658_0329	Pennsylvania	USA	North America	imported 	68.24	65.7	62.36	3745	490	3	490	4053	FALSE
+ID108	47	Female	Mild	20.0 	Guangzhou Center for Disease Prevention and Control	2020/3/31	Restaurant	cc541	ET606_0319	Nigeria	Nigeria	Africa	imported 	98.87	98.6	97.01	10713	10398	3253	10398	19706	TRUE
+ID109	36	Female	Mild	32.0 	Guangzhou Center for Disease Prevention and Control	2020/3/27		cc508	ET606_0321	Angola	Angola	Africa	imported 	98.43	97.15	95.31	9002	7346	1955	7346	16868	TRUE
+ID110	18	Male	Mild	36.0 	The Second Affiliated Hospital of Guangzhou Medical University	2020/3/28			CZ658_0327	Maine	USA	North America	imported 	49.1	44.4	39.32	1731	6	0	6	566	FALSE
+ID111	49	Male	Mild	32.0 	Guangzhou Da' an Clinical Laboratory Center	2020/3/29			CA934_0315	France	France	Europe	imported 	98.13	96.43	93.48	5868	2071	381	2071	9477	TRUE
+ID112	42	Male	Mild	27.0 	Guangzhou Nansha District  Center for Disease Control and Prevention	2020/3/30			CZ324_0330	Ireland	Ireland	Europe	imported 	97.9	96.58	93.76	7785	5396	648	5396	14939	TRUE
+ID113	56	Female	Mild	22.0 	Guangzhou Tianhe District  Center for Disease Control and Prevention;Guangzhou KingMed Medical Laboratory	2020/4/1		hh537	NH933_0319	USA	USA	North America	imported 	99.09	99.09	96.08	9587	8767	2148	8767	17857	TRUE
+ID114	26	Male	Mild	32.0 	Guangzhou Panyu District  Center for Disease Control and Prevention;Guangzhou Center for Disease Prevention and Control	2020/3/30			CZ658_0329	California	USA	North America	imported 	98.09	97.57	95.14	7656	4482	774	4482	15371	TRUE
+ID115	19	Female	Mild	24.0 	Guangzhou Tianhe District  Center for Disease Control and Prevention;Guangzhou Center for Disease Prevention and Control	2020/3/30			CZ300_0329	New Jersey	USA	North America	imported 	99.32	98.93	97.14	10348	10247	2781	10247	19325	TRUE
+ID116	38	Female	Severe	24.0 	The First Affiliated Hospital, Guangzhou University of Traditional Chinese Medicine	2020/4/2	Restaurant	cc541		Guangzhou	China	Asia	domestic 	98.85	97.85	93.46	9060	7784	1768	7784	16064	TRUE
+ID117	37	Male	Mild	19.0 	Guangzhou Center for Disease Prevention and Control	2020/3/30	Restaurant	cc541	ET606_0315	Nigeria	Nigeria	Africa	imported 	99	98.45	97.17	2217	1437	595	1437	3188	TRUE
+ID118	45	Male	Mild	33.0 	Guangzhou Center for Disease Prevention and Control	2020/3/31	Restaurant	cc541	ET606_0316	Nigeria	Nigeria	Africa	imported 	89.9	84.49	72.19	786	169	42	169	751	TRUE
+ID119	44	Male	Mild	32.0 	Guangzhou Center for Disease Prevention and Control	2020/4/4				Guangzhou	China	Asia	domestic 	98.08	96.77	94.54	2515	1342	455	1342	3502	TRUE
+ID120	27	Female	Mild	31.0 	Guangzhou Center for Disease Prevention and Control	2020/4/4	Restaurant	cc541		Guangzhou	China	Asia	domestic 	92.11	88.59	78.25	1152	259	64	259	1300	TRUE
+ID121	52	Female	Mild	31.0 	Guangzhou Center for Disease Prevention and Control	2020/4/4	Restaurant	hh543		Guangzhou	China	Asia	domestic 	85.69	78.91	67.19	921	169	27	169	975	TRUE
+ID122	55	Male	Mild	20.0 	Guangzhou Center for Disease Prevention and Control	2020/4/5	Restaurant	hh543		Guangzhou	China	Asia	domestic 	98.92	98.4	97.13	2245	1502	637	1502	3310	TRUE
+ID123	30	Male	Mild	14.0 	Guangzhou Center for Disease Prevention and Control	2020/4/7				Guangzhou	China	Asia	domestic 	99.96	99.95	99.94	19422	19878	19830	19878	19910	TRUE
+ID124	26	Male	Mild	30.0 	Guangzhou Center for Disease Prevention and Control	2020/4/6		cc0402		Guangzhou	China	Asia	domestic 	78.74	73	71.91	9670	6843	16	6843	19864	FALSE
+ID125	29	Male	Mild	20.0 	Guangzhou Center for Disease Prevention and Control	2020/4/8	Tavern	hh0406	ET606_0304	Ethiopia	Ethiopia	Africa	imported 	100	99.97	99.95	19654	19878	19838	19878	19911	TRUE
+ID126	42	Female	Mild	27.0 	Guangzhou Center for Disease Prevention and Control	2020/4/8	Tavern	hh0406		Guangzhou	China	Asia	domestic 	99.95	99.95	99.94	18484	19873	19768	19873	19912	TRUE
+ID127	26	Female	Mild	28.0 	Guangzhou Center for Disease Prevention and Control	2020/4/10	Tavern			Guangzhou	China	Asia	domestic 	99.87	99.87	99.86	15930	19753	14302	19753	19914	TRUE
+ID128	NA	NA	Mild	34.0 	Guangzhou Center for Disease Prevention and Control	2020/4/10	Tavern			Guangzhou	China	Asia	domestic 	63.85	63.79	63.63	8180	4311	1	4311	18725	FALSE
+ID129	33	Male	Mild	27.0 	Guangzhou Center for Disease Prevention and Control	2020/4/10			NA	Guangzhou	China	Asia	domestic 	99.87	99.87	99.87	15241	19729	10801	19729	19874	TRUE
+ID130	35	Male	Mild	24.0 	Guangzhou Center for Disease Prevention and Control	2020/4/10				NA	NA	NA	NA	99.87	99.87	99.86	17854	19871	19723	19871	19914	TRUE
+ID131		Male	Mild	22.0 	Guangzhou Center for Disease Prevention and Control	2020/4/10	Tavern	cc0402		NA	NA	NA	NA	99.94	99.94	99.94	18618	19877	19792	19877	19917	TRUE
+ID132	25	Male	Mild	28.0 	Guangzhou Center for Disease Prevention and Control	2020/4/11				NA	NA	NA	NA	98.7	97.66	97.49	16149	19738	15888	19738	19901	TRUE
+ID133	35	Male	Mild	24.0 	Guangzhou Center for Disease Prevention and Control	2020/4/9	trading market; Tavern			Guangzhou	China	Asia	domestic 	99.92	99.92	99.91	17465	19852	19405	19852	19911	TRUE
+ID134	35	Female	Mild	30.0 	Guangzhou Center for Disease Prevention and Control	2020/4/10				Guangzhou	China	Asia	domestic 	97.6	97.59	97.51	12877	16903	5577	16903	19869	TRUE
+ID135	53	Female	Mild	32.0 	Guangzhou Center for Disease Prevention and Control	2020/4/13	trading market  			Guangzhou	China	Asia	domestic 	92.81	90.92	87.51	8223	4523	1717	4523	16676	TRUE
+ID136	54	Male	Mild	28.0 	Guangzhou Center for Disease Prevention and Control	2020/4/13	trading market  			Guangzhou	China	Asia	domestic 	99.9	99.9	99.9	15433	19693	11961	19693	19891	TRUE
+ID137	NA	NA	Mild	28.0 	Guangzhou Center for Disease Prevention and Control	2020/4/13			NA	NA	NA	NA	NA	99.87	99.86	99.86	17965	19867	19686	19867	19913	TRUE
+ID138	40	Male	Mild	27.0 	Guangzhou Center for Disease Prevention and Control	2020/4/13	trading market  			Guangzhou	China	Asia	domestic 	99.89	99.89	99.88	17090	19843	18793	19843	19911	TRUE
+ID139		Male	Mild	25.0 	Guangzhou Center for Disease Prevention and Control	2020/4/13	trading market  			Guangzhou	China	Asia	domestic 	99.87	99.86	99.85	18267	19872	19753	19872	19916	TRUE
+ID140	30	Male	Mild	26.0 	Guangzhou Center for Disease Prevention and Control	2020/4/6	Tavern			Guangzhou	China	Asia	domestic 	99.95	99.95	99.93	18571	19872	19772	19872	19911	TRUE
+ID141	30	Female	Mild	30.0 	Guangzhou Center for Disease Prevention and Control	2020/4/9	Tavern			Guangzhou	China	Asia	domestic 	100	100	100	19635	19863	19823	19863	19894	TRUE
+ID142	41	Female	Mild	21.0 	Guangzhou Center for Disease Prevention and Control	2020/4/6	trading market; Tavern			Guangzhou	China	Asia	domestic 	99.96	99.95	99.94	18821	19876	19808	19876	19912	TRUE
+ID143	22	Male	Mild	19.0 	Guangzhou Center for Disease Prevention and Control	2020/4/9	Tavern	cc0406		Guangzhou	China	Asia	domestic 	99.95	99.95	99.94	19399	19875	19825	19875	19907	TRUE
+ID144	19	Male	Mild	37.0 	Guangzhou Center for Disease Prevention and Control	2020/4/4			CZ328_0403	USA	USA	North America	imported 	11.59	10.61	10.06	1325	1	0	1	4	FALSE
+ID145	46	Male	Mild	26.0 	Guangzhou Center for Disease Prevention and Control	2020/4/4			ET606_0322	Niger	Niger	Africa	imported 	99.9	99.9	99.9	19096	19871	19813	19871	19906	TRUE
+ID146	25	Male	Mild	28.0 	Guangzhou Center for Disease Prevention and Control	2020/4/5				Guangzhou	China	Asia	domestic 	99.87	99.87	99.86	16633	19835	16885	19835	19916	TRUE
+ID147	53	Male	Mild	35.0 	Guangzhou Center for Disease Prevention and Control	2020/4/6				Guangzhou	China	Asia	domestic 	46.12	23.6	10.84	1037	10	5	10	19	FALSE
+ID148	55	Male	Mild	30.0 	Guangzhou Center for Disease Prevention and Control	2020/4/8			CZ0348_0408	France	France	Europe	imported 	99.87	99.86	99.52	16939	19838	16665	19838	19924	TRUE
+ID149	30	Male	Mild	26.0 	Guangzhou Center for Disease Prevention and Control	2020/4/8				Guangzhou	China	Asia	domestic 	99.52	99.52	99.51	18212	19868	19703	19868	19913	TRUE
+ID150	38	Male	Mild	24.0 	Guangzhou Center for Disease Prevention and Control	2020/4/8			NA	Uganda	Uganda	Africa	imported 	99.95	99.95	99.94	18652	19876	19800	19876	19917	TRUE
+ID151	33	Male	Mild	16.0 	Guangzhou Center for Disease Prevention and Control	2020/4/8			NA	Ivory Coast	Ivory Coast	Africa	imported 	100	100	100	19314	19879	19821	19879	19914	TRUE
+ID152	34	Male	Mild	31.0 	Guangzhou Center for Disease Prevention and Control	2020/4/9	trading market  			Guangzhou	China	Asia	domestic 	19.53	8.72	6.62	429	5	2	5	9	FALSE
+ID153	22	Female	Mild	35.0 	Guangzhou Center for Disease Prevention and Control	2020/4/9			CZ0348	UK	UK	Europe	imported 	59.97	43.77	35.63	1297	15	6	15	610	FALSE
+ID154	41	Male	Mild	26.0 	Guangzhou Center for Disease Prevention and Control	2020/4/9	trading market  			Guangzhou	China	Asia	domestic 	99.95	99.94	99.94	18575	19871	19771	19871	19910	TRUE
+ID155	35	Male	Mild	16.0 	Guangzhou Center for Disease Prevention and Control	2020/4/9	trading market  			Guangzhou	China	Asia	domestic 	99.95	99.95	99.94	19443	19874	19812	19874	19909	TRUE
+ID156	28	Male	Mild	34.0 	Guangzhou Center for Disease Prevention and Control	2020/4/9				Guangzhou	China	Asia	domestic 	41.09	18.34	7.02	469	8	4	8	17	FALSE
+ID157	26	Male	Mild	17.0 	Guangzhou Center for Disease Prevention and Control	2020/4/9				Guangzhou	China	Asia	domestic 	99.97	99.95	99.95	17987	19864	19647	19864	19911	TRUE
+ID158	29	NA	Mild	31.0 	Guangzhou Center for Disease Prevention and Control	2020/4/9	trading market  			Guangzhou	China	Asia	domestic 	7.3	6.71	6.51	743	1	0	1	2	FALSE
+ID159	25	Female	Mild	25.0 	Guangzhou Center for Disease Prevention and Control	2020/4/9		hh0516		Guangzhou	China	Asia	domestic 	99.9	99.9	99.89	18402	19866	19678	19866	19915	TRUE
+ID160	1	Male	Mild	29.0 	Guangzhou Center for Disease Prevention and Control	2020/4/9		hh0516		Guangzhou	China	Asia	domestic 	99.87	99.86	99.85	15426	19410	11541	19410	19904	TRUE
+ID161	27	Male	Mild	33.0 	Guangzhou Center for Disease Prevention and Control	2020/4/10				Guangzhou	China	Asia	domestic 	93.34	87.96	86.2	8814	6604	942	6604	17264	TRUE
+ID162	38	Male	Mild	35.0 	Guangzhou Center for Disease Prevention and Control	2020/4/10	trading market  		ET606_0308	Nigeria	Nigeria	Africa	imported 	40.68	34.94	31.77	4251	6	3	6	1930	FALSE
+ID163	29	Female	Mild	17.0 	Guangzhou Center for Disease Prevention and Control	2020/4/13				Guangzhou	China	Asia	domestic 	100	100	99.99	19751	19878	19838	19878	19909	TRUE
+ID164	1	Female	Mild	17.0 	Guangzhou Center for Disease Prevention and Control	2020/4/15		hh0556		Guangzhou	China	Asia	domestic 	100	99.97	99.94	19316	19878	19826	19878	19913	TRUE
+ID165	25	Female	Mild	26.0 	Guangzhou Center for Disease Prevention and Control	2020/4/15	Tavern			Guangzhou	China	Asia	domestic 	99.94	99.94	99.93	18700	19870	19771	19870	19913	TRUE
+ID166	29	Male	Mild	31.0 	Guangzhou Center for Disease Prevention and Control	2020/4/10	Tavern			Guangzhou	China	Asia	domestic 	70.09	49.61	43.44	5771	20	9	20	12315	FALSE
+ID167	40	Male	Mild	24.0 	Guangzhou Center for Disease Prevention and Control	2020/4/10				Guangzhou	China	Asia	domestic 	99.95	99.95	99.93	18603	19865	19766	19865	19907	TRUE
+ID168	32	Male	Mild	30.0 	Guangzhou Center for Disease Prevention and Control	2020/4/11	trading market  			NA	NA	NA	NA	98.7	98.69	98.69	14471	19410	8123	19410	19930	TRUE
+ID169	36	Male	Mild	23.0 	Guangzhou Center for Disease Prevention and Control	2020/4/11	trading market  			Guangzhou	China	Asia	domestic 	99.87	99.87	99.86	17885	19870	19683	19870	19917	TRUE
+ID170	28	Male	Mild	24.0 	Guangzhou Center for Disease Prevention and Control	2020/4/11	Restaurant;Tavern;trading market  			Guangzhou	China	Asia	domestic 	99.93	99.93	99.92	18687	19869	19765	19869	19909	TRUE
+ID171	34	Male	Mild	24.0 	Guangzhou Center for Disease Prevention and Control	2020/4/11	trading market  			Guangzhou	China	Asia	domestic 	99.92	99.92	99.91	18369	19869	19743	19869	19916	TRUE
+ID172	32	Male	Mild	27.0 	Guangzhou Center for Disease Prevention and Control	2020/4/13	trading market  			Guangzhou	China	Asia	domestic 	97.51	97.5	97.49	17986	19865	19657	19865	19908	TRUE
+ID173	36	Male	Mild	24.0 	Guangzhou Center for Disease Prevention and Control	2020/4/13	trading market  			Guangzhou	China	Asia	domestic 	61.96	61.18	60.97	10423	14469	2	14469	19972	FALSE
+ID174	NA	NA	Mild	30.0 	Guangzhou Center for Disease Prevention and Control	2020/4/13	trading market  			Guangzhou	China	Asia	domestic 	68.59	55.66	51.32	8578	59	8	59	19926	FALSE
+ID175	23	Female	Mild	23.0 	Guangzhou Center for Disease Prevention and Control	2020/4/13	Tavern			Guangzhou	China	Asia	domestic 	99.93	99.93	99.92	18697	19868	19776	19868	19905	TRUE
+ID176	36	Male	Mild	19.0 	Guangzhou Center for Disease Prevention and Control	2020/4/13				Guangzhou	China	Asia	domestic 	100	100	99.97	19350	19877	19821	19877	19913	TRUE
+ID177		Male	Mild	32.0 	Guangzhou Center for Disease Prevention and Control	2020/4/13	Tavern;Restaurant;trading market  			Guangzhou	China	Asia	domestic 	99.73	99.44	99.41	15751	19660	12263	19660	19906	TRUE
+ID178	21	Female	Mild	21.0 	Guangzhou Center for Disease Prevention and Control	2020/4/14				Guangzhou	China	Asia	domestic 	99.96	99.95	99.95	19096	19875	19819	19875	19910	TRUE
+ID179	28	Male	Mild	26.0 	Guangzhou Center for Disease Prevention and Control	2020/4/14				Guangzhou	China	Asia	domestic 	99.92	99.92	99.5	18750	19876	19794	19876	19916	TRUE
+ID180	27	Female	Mild	23.0 	Guangzhou Center for Disease Prevention and Control	2020/4/14	Tavern			Guangzhou	China	Asia	domestic 	99.92	99.92	99.89	18540	19868	19779	19868	19908	TRUE
+ID181	NA	NA	Mild	32.0 	Guangzhou Center for Disease Prevention and Control	2020/4/14	Tavern			Guangzhou	China	Asia	domestic 	86.17	85.66	85.64	10833	11104	2413	11104	19704	FALSE
+ID182	NA	NA	Mild	29.0 	Guangzhou Center for Disease Prevention and Control	2020/4/14	Tavern			Guangzhou	China	Asia	domestic 	99.84	99.83	99.82	14579	19611	7894	19611	19905	TRUE
+ID183	NA	NA	Mild	24.0 	Guangzhou Center for Disease Prevention and Control	2020/4/14	trading market  			Guangzhou	China	Asia	domestic 	99.95	99.95	99.94	18928	19872	19779	19872	19911	TRUE
+ID184	44	Male	Mild	36.0 	Guangzhou Center for Disease Prevention and Control	2020/4/14	trading market  			Guangzhou	China	Asia	domestic 	27.19	26.89	26.62	3446	1	0	1	1108	FALSE
+ID185	43	Male	Mild	32.0 	Guangzhou Center for Disease Prevention and Control	2020/4/14		cc-NA		Guangzhou	China	Asia	domestic 	67.53	65.02	64.93	7523	2632	6	2632	19253	FALSE
+ID186	25	Male	Mild	33.0 	Guangzhou Center for Disease Prevention and Control	2020/4/14				Guangzhou	China	Asia	domestic 	26.71	13.71	10.27	1157	6	3	6	11	FALSE
+ID187	35	Female	Mild	16.0 	Guangzhou Center for Disease Prevention and Control	2020/4/15				Guangzhou	China	Asia	domestic 	100	99.99	99.94	19307	19882	19823	19882	19919	TRUE
+ID188	27	Female	Mild	24.0 	Guangzhou Center for Disease Prevention and Control	2020/4/15	Tavern			Guangzhou	China	Asia	domestic 	99.94	99.94	99.92	18000	19867	19687	19867	19913	TRUE
+ID189	40	Male	Mild	32.0 	Guangzhou Center for Disease Prevention and Control	2020/4/15				Guangzhou	China	Asia	domestic 	10.02	9.55	9.35	778	1	0	1	2	FALSE
+ID190	NA	Male	Mild	29.0 	Guangzhou Center for Disease Prevention and Control	2020/4/15	trading market  			Guangzhou	China	Asia	domestic 	99.88	99.87	99.86	14221	19424	6415	19424	19911	TRUE
+ID191	NA	Male	Mild	26.0 	Guangzhou Center for Disease Prevention and Control	2020/4/15	Tavern			Guangzhou	China	Asia	domestic 	94.04	94.03	94	15003	19770	11106	19770	19923	TRUE
+ID192	NA	Male	Mild	33.0 	Guangzhou Center for Disease Prevention and Control	2020/4/15	trading market  			Guangzhou	China	Asia	domestic 	37.91	36.78	36.4	3997	1	0	1	4208	FALSE
+ID193	NA	Female	Mild	23.0 	Guangzhou Center for Disease Prevention and Control	2020/4/15	trading market  		NA	Tanzania	Tanzania	Africa	imported 	99.93	99.92	99.91	18883	19871	19794	19871	19910	TRUE
+ID194	47	Female	Mild	25.0 	Guangzhou Center for Disease Prevention and Control	2020/4/15	trading market  		ET606_0315	Ethiopia	Ethiopia	Africa	imported 	50.07	49.05	48.66	6171	11	0	11	11692	FALSE
+ID195	25	Female	Mild	32.0 	Guangzhou Center for Disease Prevention and Control	2020/4/15				Guangzhou	China	Asia	domestic 	77.27	73.24	68.83	3071	798	14	798	3788	FALSE
+ID196	33	Female	Mild	26.0 	Guangzhou Center for Disease Prevention and Control	2020/4/15		hh0556		Guangzhou	China	Asia	domestic 	98.22	98.21	98.2	15263	19621	12054	19621	19911	TRUE
+ID197	3	Female	Mild	23.0 	Guangzhou Center for Disease Prevention and Control	2020/4/15		hh0556		Guangzhou	China	Asia	domestic 	99.99	99.99	99.94	19425	19879	19820	19879	19915	TRUE
+ID198	48	Male	Mild	22.0 	Guangzhou Center for Disease Prevention and Control	2020/4/15	trading market  		ET606_0315	Ethiopia	Ethiopia	Africa	imported 	99.95	99.95	99.93	18996	19876	19809	19876	19912	TRUE
+ID199	NA	Male	Mild	25.0 	Guangzhou Center for Disease Prevention and Control	2020/4/15	trading market  			Guangzhou	China	Asia	domestic 	99.89	99.88	99.88	16112	19733	14540	19733	19893	TRUE
+ID200	26	Male	Mild	24.0 	Guangzhou Center for Disease Prevention and Control	2020/4/10	Tavern			Guangzhou	China	Asia	domestic 	99.95	99.95	99.94	19030	19875	19808	19875	19912	TRUE

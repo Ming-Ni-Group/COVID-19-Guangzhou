@@ -1,0 +1,147 @@
+NMDC Accession number,Virus Strain Name,Patient ID,Sample Date,Location exposure,Country exposure,Region exposure,Exposure Classification
+NMDC60013143,hCoV-19/Guangzhou/ID154/2020,ID154,4/9/2020,Guangzhou,China,Asia,local
+NMDC60013144,hCoV-19/Guangzhou/ID171/2020,ID171,4/11/2020,Guangzhou,China,Asia,local
+NMDC60013145,hCoV-19/Guangzhou/ID159/2020,ID159,4/9/2020,Guangzhou,China,Asia,local
+NMDC60013146,hCoV-19/Guangzhou/ID150/2020,ID150,4/8/2020,Uganda,Uganda,Africa,imported
+NMDC60013147,hCoV-19/Guangzhou/ID183/2020,ID183,4/14/2020,Guangzhou,China,Asia,local
+NMDC60013148,hCoV-19/Guangzhou/ID170/2020,ID170,4/11/2020,Guangzhou,China,Asia,local
+NMDC60013149,hCoV-19/Guangzhou/ID193/2020,ID193,4/15/2020,Tanzania,Tanzania,Africa,imported
+NMDC60013150,hCoV-19/Guangzhou/ID151/2020,ID151,4/8/2020,Ivory Coast,Ivory Coast,Africa,imported
+NMDC60013151,hCoV-19/Guangzhou/ID160/2020,ID160,4/9/2020,Guangzhou,China,Asia,local
+NMDC60013152,hCoV-19/Guangzhou/ID187/2020,ID187,4/15/2020,Guangzhou,China,Asia,local
+NMDC60013153,hCoV-19/Guangzhou/ID140/2020,ID140,4/6/2020,Guangzhou,China,Asia,local
+NMDC60013154,hCoV-19/Guangzhou/ID149/2020,ID149,4/8/2020,Guangzhou,China,Asia,local
+NMDC60013155,hCoV-19/Guangzhou/ID146/2020,ID146,4/5/2020,Guangzhou,China,Asia,local
+NMDC60013156,hCoV-19/Guangzhou/ID179/2020,ID179,4/14/2020,Guangzhou,China,Asia,local
+NMDC60013157,hCoV-19/Guangzhou/ID164/2020,ID164,4/15/2020,Guangzhou,China,Asia,local
+NMDC60013158,hCoV-19/Guangzhou/ID196/2020,ID196,4/15/2020,Guangzhou,China,Asia,local
+NMDC60013159,hCoV-19/Guangzhou/ID188/2020,ID188,4/15/2020,Guangzhou,China,Asia,local
+NMDC60013160,hCoV-19/Guangzhou/ID161/2020,ID161,4/10/2020,Guangzhou,China,Asia,local
+NMDC60013161,hCoV-19/Guangzhou/ID176/2020,ID176,4/13/2020,Guangzhou,China,Asia,local
+NMDC60013162,hCoV-19/Guangzhou/ID123/2020,ID123,4/7/2020,Guangzhou,China,Asia,local
+NMDC60013163,hCoV-19/Guangzhou/ID142/2020,ID142,4/6/2020,Guangzhou,China,Asia,local
+NMDC60013164,hCoV-19/Guangzhou/ID172/2020,ID172,4/13/2020,Guangzhou,China,Asia,local
+NMDC60013165,hCoV-19/Guangzhou/ID197/2020,ID197,4/15/2020,Guangzhou,China,Asia,local
+NMDC60013166,hCoV-19/Guangzhou/ID131/2020,ID131,4/10/2020,Unknown,Unknown,Unknown,uncertain
+NMDC60013167,hCoV-19/Guangzhou/ID130/2020,ID130,4/10/2020,Unknown,Unknown,Unknown,uncertain
+NMDC60013168,hCoV-19/Guangzhou/ID180/2020,ID180,4/14/2020,Guangzhou,China,Asia,local
+NMDC60013169,hCoV-19/Guangzhou/ID108/2020,ID108,3/31/2020,Nigeria,Nigeria,Africa,imported
+NMDC60013170,hCoV-19/Guangzhou/ID125/2020,ID125,4/8/2020,Ethiopia,Ethiopia,Africa,imported
+NMDC60013171,hCoV-19/Guangzhou/ID126/2020,ID126,4/8/2020,Guangzhou,China,Asia,local
+NMDC60013172,hCoV-19/Guangzhou/ID141/2020,ID141,4/9/2020,Guangzhou,China,Asia,local
+NMDC60013173,hCoV-19/Guangzhou/ID178/2020,ID178,4/14/2020,Guangzhou,China,Asia,local
+NMDC60013174,hCoV-19/Guangzhou/ID163/2020,ID163,4/13/2020,Guangzhou,China,Asia,local
+NMDC60013175,hCoV-19/Guangzhou/ID175/2020,ID175,4/13/2020,Guangzhou,China,Asia,local
+NMDC60013176,hCoV-19/Guangzhou/ID137/2020,ID137,4/13/2020,Unknown,Unknown,Unknown,uncertain
+NMDC60013177,hCoV-19/Guangzhou/ID200/2020,ID200,4/10/2020,Guangzhou,China,Asia,local
+NMDC60013178,hCoV-19/Guangzhou/ID118/2020,ID118,3/31/2020,Nigeria,Nigeria,Africa,imported
+NMDC60013179,hCoV-19/Guangzhou/ID121/2020,ID121,4/4/2020,Guangzhou,China,Asia,local
+NMDC60013180,hCoV-19/Guangzhou/ID120/2020,ID120,4/4/2020,Guangzhou,China,Asia,local
+NMDC60013181,hCoV-19/Guangzhou/ID117/2020,ID117,3/30/2020,Nigeria,Nigeria,Africa,imported
+NMDC60013182,hCoV-19/Guangzhou/ID122/2020,ID122,4/5/2020,Guangzhou,China,Asia,local
+NMDC60013183,hCoV-19/Guangzhou/ID119/2020,ID119,4/4/2020,Guangzhou,China,Asia,local
+NMDC60013184,hCoV-19/Guangzhou/ID190/2020,ID190,4/15/2020,Guangzhou,China,Asia,local
+NMDC60013185,hCoV-19/Guangzhou/ID165/2020,ID165,4/15/2020,Guangzhou,China,Asia,local
+NMDC60013186,hCoV-19/Guangzhou/ID169/2020,ID169,4/11/2020,Guangzhou,China,Asia,local
+NMDC60013187,hCoV-19/Guangzhou/ID182/2020,ID182,4/14/2020,Guangzhou,China,Asia,local
+NMDC60013188,hCoV-19/Guangzhou/ID157/2020,ID157,4/9/2020,Guangzhou,China,Asia,local
+NMDC60013189,hCoV-19/Guangzhou/ID167/2020,ID167,4/10/2020,Guangzhou,China,Asia,local
+NMDC60013190,hCoV-19/Guangzhou/ID133/2020,ID133,4/9/2020,Guangzhou,China,Asia,local
+NMDC60013191,hCoV-19/Guangzhou/ID155/2020,ID155,4/9/2020,Guangzhou,China,Asia,local
+NMDC60013192,hCoV-19/Guangzhou/ID198/2020,ID198,4/15/2020,Ethiopia,Ethiopia,Africa,imported
+NMDC60013193,hCoV-19/Guangzhou/ID143/2020,ID143,4/9/2020,Guangzhou,China,Asia,local
+NMDC60013194,hCoV-19/Guangzhou/ID139/2020,ID139,4/13/2020,Guangzhou,China,Asia,local
+NMDC60013195,hCoV-19/Guangzhou/ID116/2020,ID116,4/2/2020,Guangzhou,China,Asia,local
+NMDC60013196,hCoV-19/Guangzhou/ID177/2020,ID177,4/13/2020,Guangzhou,China,Asia,local
+NMDC60013197,hCoV-19/Guangzhou/ID199/2020,ID199,4/15/2020,Guangzhou,China,Asia,local
+NMDC60013198,hCoV-19/Guangzhou/ID168/2020,ID168,4/11/2020,Unknown,Unknown,Unknown,uncertain
+NMDC60013199,hCoV-19/Guangzhou/ID138/2020,ID138,4/13/2020,Guangzhou,China,Asia,local
+NMDC60013200,hCoV-19/Guangzhou/ID191/2020,ID191,4/15/2020,Guangzhou,China,Asia,local
+NMDC60013201,hCoV-19/Guangzhou/ID054/2020,ID054,3/20/2020,London,UK,Europe,imported
+NMDC60013202,hCoV-19/Guangzhou/ID066/2020,ID066,3/17/2020,Thailand,Thailand,Asia,imported
+NMDC60013203,hCoV-19/Guangzhou/ID069/2020,ID069,3/19/2020,London,UK,Europe,imported
+NMDC60013204,hCoV-19/Guangzhou/ID061/2020,ID061,3/26/2020,Spain,Spain,Europe,imported
+NMDC60013205,hCoV-19/Guangzhou/ID047/2020,ID047,3/17/2020,London,UK,Europe,imported
+NMDC60013206,hCoV-19/Guangzhou/ID046/2020,ID046,3/17/2020,London,UK,Europe,imported
+NMDC60013207,hCoV-19/Guangzhou/ID059/2020,ID059,3/24/2020,Chile,Chile,South America,imported
+NMDC60013208,hCoV-19/Guangzhou/ID114/2020,ID114,3/30/2020,California,USA,North America,imported
+NMDC60013209,hCoV-19/Guangzhou/ID017/2020,ID017,3/22/2020,London,UK,Europe,imported
+NMDC60013210,hCoV-19/Guangzhou/ID085/2020,ID085,3/28/2020,Russia,Russia,Europe,imported
+NMDC60013211,hCoV-19/Guangzhou/ID109/2020,ID109,3/27/2020,Angola,Angola,Africa,imported
+NMDC60013212,hCoV-19/Guangzhou/ID077/2020,ID077,3/30/2020,Angola,Angola,Africa,imported
+NMDC60013213,hCoV-19/Guangzhou/ID055/2020,ID055,3/22/2020,Ethiopia,Ethiopia,Africa,imported
+NMDC60013214,hCoV-19/Guangzhou/ID078/2020,ID078,3/28/2020,Madagascar,Madagascar,Africa,imported
+NMDC60013215,hCoV-19/Guangzhou/ID012/2020,ID012,3/20/2020,Canada,Canada,North America,imported
+NMDC60013216,hCoV-19/Guangzhou/ID009/2020,ID009,3/18/2020,London,UK,Europe,imported
+NMDC60013217,hCoV-19/Guangzhou/ID039/2020,ID039,3/26/2020,New Jersey,USA,North America,imported
+NMDC60013218,hCoV-19/Guangzhou/ID050/2020,ID050,3/18/2020,France,France,Europe,imported
+NMDC60013219,hCoV-19/Guangzhou/ID148/2020,ID148,4/8/2020,France,France,Europe,imported
+NMDC60013220,hCoV-19/Guangzhou/ID111/2020,ID111,3/29/2020,France,France,Europe,imported
+NMDC60013221,hCoV-19/Guangzhou/ID067/2020,ID067,3/18/2020,France,France,Europe,imported
+NMDC60013222,hCoV-19/Guangzhou/ID072/2020,ID072,3/22/2020,Ethiopia,Ethiopia,Africa,imported
+NMDC60013223,hCoV-19/Guangzhou/ID057/2020,ID057,3/23/2020,Nigeria,Nigeria,Africa,imported
+NMDC60013224,hCoV-19/Guangzhou/ID021/2020,ID021,3/22/2020,Nigeria,Nigeria,Africa,imported
+NMDC60013225,hCoV-19/Guangzhou/ID079/2020,ID079,3/28/2020,Angola,Angola,Africa,imported
+NMDC60013226,hCoV-19/Guangzhou/ID019/2020,ID019,3/22/2020,London,UK,Europe,imported
+NMDC60013227,hCoV-19/Guangzhou/ID036/2020,ID036,3/25/2020,France,France,Europe,imported
+NMDC60013228,hCoV-19/Guangzhou/ID134/2020,ID134,4/10/2020,Guangzhou,China,Asia,local
+NMDC60013229,hCoV-19/Guangzhou/ID016/2020,ID016,3/22/2020,France,France,Europe,imported
+NMDC60013230,hCoV-19/Guangzhou/ID113/2020,ID113,4/1/2020,USA,USA,North America,imported
+NMDC60013231,hCoV-19/Guangzhou/ID045/2020,ID045,3/17/2020,London,UK,Europe,imported
+NMDC60013232,hCoV-19/Guangzhou/ID068/2020,ID068,3/18/2020,Michigan,USA,North America,imported
+NMDC60013233,hCoV-19/Guangzhou/ID037/2020,ID037,3/26/2020,New York,USA,North America,imported
+NMDC60013234,hCoV-19/Guangzhou/ID091/2020,ID091,3/30/2020,Pennsylvania,USA,North America,imported
+NMDC60013235,hCoV-19/Guangzhou/ID073/2020,ID073,3/26/2020,New York,USA,North America,imported
+NMDC60013236,hCoV-19/Guangzhou/ID115/2020,ID115,3/30/2020,New Jersey,USA,North America,imported
+NMDC60013237,hCoV-19/Guangzhou/ID074/2020,ID074,3/15/2020,France,France,Europe,imported
+NMDC60013238,hCoV-19/Guangzhou/ID042/2020,ID042,3/26/2020,Spain,Spain,Europe,imported
+NMDC60013239,hCoV-19/Guangzhou/ID136/2020,ID136,4/13/2020,Guangzhou,China,Asia,local
+NMDC60013240,hCoV-19/Guangzhou/ID132/2020,ID132,4/11/2020,Unknown,Unknown,Unknown,uncertain
+NMDC60013241,hCoV-19/Guangzhou/ID129/2020,ID129,4/10/2020,Guangzhou,China,Asia,local
+NMDC60013242,hCoV-19/Guangzhou/ID127/2020,ID127,4/10/2020,Guangzhou,China,Asia,local
+NMDC60013243,hCoV-19/Guangzhou/ID135/2020,ID135,4/13/2020,Guangzhou,China,Asia,local
+NMDC60013244,hCoV-19/Guangzhou/ID020/2020,ID020,3/27/2020,Congo,Congo,Africa,imported
+NMDC60013245,hCoV-19/Guangzhou/ID070/2020,ID070,3/20/2020,Guangzhou,China,Asia,local
+NMDC60013246,hCoV-19/Guangzhou/ID040/2020,ID040,3/27/2020,Dubai,UAE,Asia,imported
+NMDC60013247,hCoV-19/Guangzhou/ID041/2020,ID041,3/27/2020,Dubai,UAE,Asia,imported
+NMDC60013248,hCoV-19/Guangzhou/ID076/2020,ID076,3/25/2020,Ethiopia,Ethiopia,Africa,imported
+NMDC60013249,hCoV-19/Guangzhou/ID002/2020,ID002,2/3/2020,Guangzhou,China,Asia,local
+NMDC60013250,hCoV-19/Guangzhou/ID032/2020,ID032,3/24/2020,Oxford,UK,Europe,imported
+NMDC60013251,hCoV-19/Guangzhou/ID087/2020,ID087,3/28/2020,Birmingham,UK,Europe,imported
+NMDC60013252,hCoV-19/Guangzhou/ID052/2020,ID052,3/20/2020,Philippines,Philippines,Asia,imported
+NMDC60013253,hCoV-19/Guangzhou/ID063/2020,ID063,3/27/2020,Malaysia,Malaysia,Asia,imported
+NMDC60013254,hCoV-19/Guangzhou/ID051/2020,ID051,3/18/2020,Philippines,Philippines,Asia,imported
+NMDC60013255,hCoV-19/Guangzhou/ID011/2020,ID011,3/19/2020,Philippines,Philippines,Asia,imported
+NMDC60013256,hCoV-19/Guangzhou/ID010/2020,ID010,3/19/2020,Philippines,Philippines,Asia,imported
+NMDC60013257,hCoV-19/Guangzhou/ID048/2020,ID048,3/18/2020,Philippines,Philippines,Asia,imported
+NMDC60013258,hCoV-19/Guangzhou/ID065/2020,ID065,3/17/2020,Philippines,Philippines,Asia,imported
+NMDC60013259,hCoV-19/Guangzhou/ID007/2020,ID007,3/14/2020,Philippines,Philippines,Asia,imported
+NMDC60013260,hCoV-19/Guangzhou/ID015/2020,ID015,3/21/2020,Philippines,Philippines,Asia,imported
+NMDC60013261,hCoV-19/Guangzhou/ID006/2020,ID006,3/12/2020,Thailand,Thailand,Asia,imported
+NMDC60013262,hCoV-19/Guangzhou/ID026/2020,ID026,3/23/2020,Pakistan,Pakistan,Asia,imported
+NMDC60013263,hCoV-19/Guangzhou/ID027/2020,ID027,3/25/2020,Pakistan,Pakistan,Asia,imported
+NMDC60013264,hCoV-19/Guangzhou/ID028/2020,ID028,,Pakistan,Pakistan,Asia,imported
+NMDC60013265,hCoV-19/Guangzhou/ID053/2020,ID053,3/19/2020,Philippines,Philippines,Asia,imported
+NMDC60013266,hCoV-19/Guangzhou/ID030/2020,ID030,,Pakistan,Pakistan,Asia,imported
+NMDC60013267,hCoV-19/Guangzhou/ID062/2020,ID062,3/26/2020,Philippines,Philippines,Asia,imported
+NMDC60013268,hCoV-19/Guangzhou/ID049/2020,ID049,3/19/2020,Philippines,Philippines,Asia,imported
+NMDC60013269,hCoV-19/Guangzhou/ID031/2020,ID031,,Pakistan,Pakistan,Asia,imported
+NMDC60013270,hCoV-19/Guangzhou/ID013/2020,ID013,3/20/2020,Dubai,UAE,Asia,imported
+NMDC60013271,hCoV-19/Guangzhou/ID034/2020,ID034,3/24/2020,Leicester,UK,Europe,imported
+NMDC60013272,hCoV-19/Guangzhou/ID035/2020,ID035,3/24/2020,Leicester,UK,Europe,imported
+NMDC60013273,hCoV-19/Guangzhou/ID033/2020,ID033,3/24/2020,Birmingham,UK,Europe,imported
+NMDC60013274,hCoV-19/Guangzhou/ID112/2020,ID112,3/30/2020,Ireland,Ireland,Europe,imported
+NMDC60013275,hCoV-19/Guangzhou/ID104/2020,ID104,1/28/2020,Wuhan,China,Asia,local
+NMDC60013276,hCoV-19/Guangzhou/ID097/2020,ID097,1/28/2020,Guangzhou,China,Asia,local
+NMDC60013277,hCoV-19/Guangzhou/ID100/2020,ID100,1/29/2020,Wuhan,China,Asia,local
+NMDC60013278,hCoV-19/Guangzhou/ID101/2020,ID101,1/31/2020,Wuhan,China,Asia,local
+NMDC60013279,hCoV-19/Guangzhou/ID099/2020,ID099,2/2/2020,Wuhan,China,Asia,local
+NMDC60013280,hCoV-19/Guangzhou/ID004/2020,ID004,2/9/2020,Guangzhou,China,Asia,local
+NMDC60013281,hCoV-19/Guangzhou/ID145/2020,ID145,4/4/2020,Niger,Niger,Africa,imported
+NMDC60013282,hCoV-19/Guangzhou/ID056/2020,ID056,3/24/2020,Congo,Congo,Africa,imported
+NMDC60013283,hCoV-19/Guangzhou/ID103/2020,ID103,1/31/2020,Guangzhou,China,Asia,local
+NMDC60013284,hCoV-19/Guangzhou/ID096/2020,ID096,2/22/2020,Hubei,China,Asia,local
+NMDC60013285,hCoV-19/Guangzhou/ID106/2020,ID106,1/31/2020,Wuhan,China,Asia,local
+NMDC60013286,hCoV-19/Guangzhou/ID102/2020,ID102,1/29/2020,Wuhan,China,Asia,local
+NMDC60013287,hCoV-19/Guangzhou/ID098/2020,ID098,1/31/2020,Guangzhou,China,Asia,local
+NMDC60013288,hCoV-19/Guangzhou/ID064/2020,ID064,3/27/2020,California,USA,North America,imported
