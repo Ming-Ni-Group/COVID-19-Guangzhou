@@ -46,4 +46,4 @@ scripts: python script and R script for analysis and visulization.
 
 
 ## Citation
-If you use data, results or conclusion from this work, please cite:
+If you use data, results or conclusion from this work, please cite: Genomic Elucidation of a COVID-19 Resurgence and Local Transmission of SARS-CoV-2 in Guangzhou, China, Journal of Clinical Microbiology, 2021, Vol. 59, No. 8, https://journals.asm.org/doi/10.1128/JCM.00079-21
